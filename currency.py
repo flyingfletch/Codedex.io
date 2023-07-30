@@ -1,3 +1,4 @@
+#Practicing calculations with currency exchange
 print("Let's exchange our trip money back into dollars!")
 pesos = int(input('What do you have left in pesos? '))
 reais = int(input('What do you have left in reais? '))

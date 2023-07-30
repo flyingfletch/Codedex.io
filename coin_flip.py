@@ -1,3 +1,4 @@
+#Learning about conditional statements
 import random
 
 num = random.randint(0, 1)   # RNGesus will give us a random number that is either 0 or 1

@@ -1,3 +1,4 @@
+#Writing a note to future me
 print('Note to Future Me')
 print('7-30-23')
 print('I am excited to get started with python.')

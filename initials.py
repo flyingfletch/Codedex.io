@@ -1,3 +1,4 @@
+#Make your initials into block letters
 #Fun Fact: I make amigurumi
 print('  JJJJJJJJJJJ  FFFFFFFF')
 print('       J       F')
