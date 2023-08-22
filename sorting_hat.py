@@ -26,7 +26,7 @@ elif q2 == 4:
 else:
     print("Wrong input.")
 
-q3 = int(input("Which kind of instrument most pleases your hear? The violin(1) The trumpet(2) The piano(3) The drum(4)"))
+q3 = int(input("Which kind of instrument most pleases your ear? The violin(1) The trumpet(2) The piano(3) The drum(4)"))
 if q3 == 1:
     sr = sr + 4
 elif q3 == 2:
