@@ -1,0 +1,27 @@
+#first-color {
+    color: #ff0000;
+}
+
+#second-color {
+    color: #ffa500;
+}
+
+#third-color {
+    color: rgb(255, 255, 0);
+}
+
+#fourth-color {
+    color: rgb(0, 128, 0);
+}
+
+#fifth-color {
+    color: blue;
+}
+
+#sixth-color {
+    color: indigo;
+}
+
+#seventh-color {
+    color: violet;
+}
