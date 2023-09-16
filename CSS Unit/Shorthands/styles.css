@@ -1,3 +1,4 @@
+/* Practice with font & text-decoration shorthands */
 h1 {
     text-decoration: underline dashed green 6px;
 }
