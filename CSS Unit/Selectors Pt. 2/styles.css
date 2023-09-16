@@ -1,22 +1,24 @@
 /* More practice with selectors */
-ul, ol {
+#continents, #oceans {
     border: 1px solid black;
-    width: 200px;
+    width: 300px;
 }
 
-ul {
+#continents {
     background-color: lightgreen;
 }
 
-ol {
+#oceans {
     background-color: skyblue;
     color: white;
 }
 
-ul>h2 {
+#continents>h2 {
     text-decoration: underline wavy 3px brown;
+    text-align: center;
 }
 
-ol>h2 {
+#oceans>h2 {
     text-decoration: underline dotted 3px indigo;
+    text-align: center;
 }
