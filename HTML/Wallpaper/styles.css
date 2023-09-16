@@ -1,0 +1,15 @@
+#outer {
+    width: 500px;
+    height: 500px;
+    background-color: lightgreen;
+    display: flex;
+}
+#inner {
+    width: 400px;
+    height: 400px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbm6Hk2M-OWZRvh1Er49sZf__VLdsLsXKg_A&usqp=CAU);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: auto;
+}
