@@ -5,4 +5,4 @@ const catsRBest = true;
 
 console.log("My favorite number is " + favNumber);
 console.log("My favorite song is " + favSong);
-console.log("Are cats the best animal? " + catsRBest);
+console.log("Are cats the best animal? It is " + catsRBest);
